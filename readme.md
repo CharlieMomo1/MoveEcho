@@ -2,7 +2,7 @@
 
 MoveEcho is a real-time location tracking Android application that uses MQTT for lightweight communication between devices. The app allows users to share their location and transportation mode while displaying other users' locations on a map.
 
-![App Screenshot](https://via.placeholder.com/728x380.png?text=MoveEcho+App+Screenshot)
+![Screenshot 2025-03-12 193221](https://github.com/user-attachments/assets/39b99d7f-1864-470b-87cf-3ce0e3cc8dd1)
 
 ## Features
 
